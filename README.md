@@ -1,6 +1,6 @@
 # H-ITT
 
-This repo contians the binaries of the [H-ITT](www.h-itt.com) classroom response system software.
+This repo contians the binaries of the [H-ITT](https://www.h-itt.com) classroom response system software.
 
 ## H-ITT Classroom Response System Software Version 3.2.0
 
