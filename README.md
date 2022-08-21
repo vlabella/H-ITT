@@ -2,16 +2,15 @@
 
 This repo contians the binaries of the [H-ITT](www.h-itt.com) classroom response system software.
 
-## H-ITT Classroom Response System Software
+## H-ITT Classroom Response System Software Download Version 3.2.0
 
-System requirements for the H-ITT classroom response system (CRS) software.  Only 64-bit versions of the software are provided.
+Only 64-bit versions of the software are provided. Minimum system requirements are noted below.
 
-* Windows: 10 or newer
-* macOS:  OSX 10.14 or newer
-* Linux: Compiled and tested on Ubuntu 20
+* [Download Windows](https://github.com/vlabella/H-ITT/releases/download/v3.2.0/H-ITT-3.2.0-win64s.exe): 10 or newer
+* [Download macOS](https://github.com/vlabella/H-ITT/releases/download/v3.2.0/H-ITT-3.2.0-macos.dmg):  OSX 10.14 or newer
+* [Dowload Linux](https://github.com/vlabella/H-ITT/releases/download/v3.2.0/H-ITT-3.2.0-linux.tar.gz): Compiled and tested on Ubuntu 20
 
-
-[Dowloand latest version 3.2.0](https://github.com/vlabella/H-ITT/releases/tag/v3.2.0)
+[Other Release Variants](https://github.com/vlabella/H-ITT/releases/tag/v3.2.0)
 
 ## Base Unit Drivers: [FTDI VCP](https://ftdichip.com/drivers/vcp-drivers)
 
