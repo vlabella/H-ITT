@@ -2,7 +2,7 @@
 
 This repo contians the binaries of the [H-ITT](www.h-itt.com) classroom response system software.
 
-## H-ITT Classroom Response System Software Download Version 3.2.0
+## H-ITT Classroom Response System Software Version 3.2.0
 
 Only 64-bit versions of the software are provided. Minimum system requirements are noted below.
 
